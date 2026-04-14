@@ -1,0 +1,1 @@
+Added ASCII art logo display
