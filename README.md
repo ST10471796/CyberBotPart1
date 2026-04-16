@@ -41,3 +41,17 @@ A console-based chatbot that educates users about cybersecurity through voice an
 - `ResponseManager.cs` - Response methods and tips
 - `AudioManager.cs` - Voice greeting handling
 - `Resources/greeting.wav` - Voice greeting audio
+
+- ## References
+
+[1] H. Pieterse, “The Cyber Threat Landscape in South Africa: A 10-Year Review,” *The African Journal of Information and Communication*, no. 28, pp. 1–21, 2021. Accessed: Apr. 15, 2026. [Online]. Available: https://doi.org/10.23962/10539/32213
+
+[2] Microsoft, “SoundPlayer Class (System.Media),” *Microsoft Learn*. Accessed: Apr. 15, 2026. [Online]. Available: https://learn.microsoft.com/en-us/dotnet/api/system.media.soundplayer
+
+[3] Microsoft, “SoundPlayer.PlaySync Method (System.Media),” *Microsoft Learn*. Accessed: Apr. 15, 2026. [Online]. Available: https://learn.microsoft.com/en-us/dotnet/api/system.media.soundplayer.playsync
+
+[4] Microsoft, “SpeechSynthesizer Class (System.Speech.Synthesis),” *Microsoft Learn*. Accessed: Apr. 15, 2026. [Online]. Available: https://learn.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer
+
+[5] Microsoft, “Console.Beep Method (System),” *Microsoft Learn*. Accessed: Apr. 15, 2026. [Online]. Available: https://learn.microsoft.com/en-us/dotnet/api/system.console.beep
+
+[6] Institute of Electrical and Electronics Engineers, *IEEE Reference Guide*, IEEE, Piscataway, NJ, USA, 2024. [Online]. Available: https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf
